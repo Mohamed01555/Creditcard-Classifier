@@ -13,3 +13,7 @@
 * Features V1, V2, … V28 are the principal components obtained with PCA
 
 * Unfortunately, due to confidentiality issues, we cannot provide the original features and more background information about the data
+
+* You can use my classifier in https://evening-savannah-85283.herokuapp.com/
+
+by using POST request to https://evening-savannah-85283.herokuapp.com/clf and then enter a python list [] which contains 30 nombers as shown above
