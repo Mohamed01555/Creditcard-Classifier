@@ -17,3 +17,5 @@
 * You can use my classifier in https://evening-savannah-85283.herokuapp.com/
 
 by using POST request to https://evening-savannah-85283.herokuapp.com/clf and then enter a python list [] which contains 30 nombers as shown above
+
+* You can use postman program to do this
